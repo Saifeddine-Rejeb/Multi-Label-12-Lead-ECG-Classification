@@ -7,7 +7,7 @@
 ![Macro F1](https://img.shields.io/badge/Best%20Macro%20F1-0.7242-blue)
 ![Models](https://img.shields.io/badge/Architectures-3-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Presentation](https://img.shields.io/badge/📊_Presentation-Slides-red?style=flat&logo=googleslides&logoColor=white)](https://drive.google.com/drive/folders/17xsyrOOj0yiot3_bhD4gCLdxQ83dOa8p?usp=sharing)
+
 
 Automated multi-label diagnostic classification of 12-lead ECG signals into five cardiac superclasses using deep learning. Three architectures — ResNet1D, InceptionTime, and a patch-based Transformer — are trained, evaluated, and converted to TensorFlow Lite (float16) for edge deployment.
 
