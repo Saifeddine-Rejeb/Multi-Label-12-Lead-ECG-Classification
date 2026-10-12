@@ -9,10 +9,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Presentation](https://img.shields.io/badge/📊_Presentation-Slides-red?style=flat&logo=googleslides&logoColor=white)](https://drive.google.com/drive/folders/17xsyrOOj0yiot3_bhD4gCLdxQ83dOa8p?usp=sharing)
 
-> **AI Night Challenge** — Organized by **ARSII** | Subject proposed by the **Computer & Embedded Systems Laboratory (CES)**
->
-> 📊 **[Presentation Slides](https://drive.google.com/drive/folders/17xsyrOOj0yiot3_bhD4gCLdxQ83dOa8p?usp=sharing)**
-
 Automated multi-label diagnostic classification of 12-lead ECG signals into five cardiac superclasses using deep learning. Three architectures — ResNet1D, InceptionTime, and a patch-based Transformer — are trained, evaluated, and converted to TensorFlow Lite (float16) for edge deployment.
 
 ---
@@ -455,9 +451,3 @@ The ResNet1D model additionally has a **dynamic range quantization** variant (in
 
 ---
 
-**Challenge:** AI Night — Heart Reader | Multi-Label ECG Diagnostic Classification  
-**Organized by:** ARSII  
-**Subject proposed by:** Computer & Embedded Systems Laboratory (CES)  
-**Framework:** TensorFlow / Keras  
-**Platform:** Google Colab (GPU)  
-**Edge Target:** TFLite float16 quantization
